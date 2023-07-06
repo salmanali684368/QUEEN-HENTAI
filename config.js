@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923490441982', '𝑆𝛥𝐿𝛭𝛥𝛮 Official²⁰²³', true],
-  ['923490441982', '𝑆𝛥𝐿𝛭𝛥𝛮 Official²⁰²³', true], 
+  ['923490441982', '𝑆𝛥𝐿𝛭𝛥𝛮 ✎₊₉͒₂͒₃₁ᷤ₁ᷧ₅ᷞ₁ᷟ₆ᷧ₀ᷡ₇₆͒₅͒✰⁰²³', true],
+  ['923490441982', '𝑆𝛥𝐿𝛭𝛥𝛮 ✎₊₉͒₂͒₃₁ᷤ₁ᷧ₅ᷞ₁ᷟ₆ᷧ₀ᷡ₇₆͒₅͒✰⁰²³', true], 
   [''] 
 ] //Number of owners
 
@@ -49,8 +49,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '💝 𝑆𝛥𝐿𝛭𝛥𝛮 bot 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
+global.packname = '💝 𝑆𝛥𝐿𝛭𝛥𝛮 💝 Created By 💝 𝑆𝛥𝐿𝛭𝛥𝛮 Official²⁰²³ 💝' 
+global.author = '💝 𝑆𝛥𝐿𝛭𝛥𝛮 Official²⁰²³ 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
